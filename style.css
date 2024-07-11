@@ -500,6 +500,13 @@
       section{
          padding: 100px 10px;
       }
+      .home .container a{
+        padding: 10px 20px;
+        font-size: .9rem;
+        font-weight: 300;
+        text-decoration: none;
+        border-radius: 2px;
+       }
       .home .container h1{
          font-size: 2em;
          line-height: 60px;
