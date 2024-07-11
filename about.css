@@ -313,7 +313,6 @@
        margin: 40px 0;
     }
     nav ul li a{
-      
        font-size: 20px;
        display: block;
     
@@ -327,8 +326,7 @@
         flex-direction: column-reverse;
       }
       #about-container .about-image{
-        width: 150%;
-        padding-right: auto;
+         display: none;  
       }
       #about-container .about-text{
         width: 100%;
