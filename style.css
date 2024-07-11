@@ -566,6 +566,14 @@
         outline: none;
       
       }
+      footer .subscribe a{
+        text-decoration: none;
+        font-size: 0.9rem;
+        padding: 18px 10px;
+        background-color: #fff;
+        font-weight: 300;
+        
+   }
     
       
  }
