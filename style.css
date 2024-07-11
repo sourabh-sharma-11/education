@@ -512,6 +512,11 @@
          line-height: 60px;
 
       }
+      #about h1{
+        font-weight: 500;
+        font-size: 2rem;
+        color: #fff;
+    }
       #course-inner{
         display: flex;
         flex-direction: column;
