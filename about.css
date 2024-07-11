@@ -318,7 +318,7 @@
     
       }
       #about h1{
-        font-weight: 600;
+        font-weight: 500;
         font-size: 2rem;
         color: #fff;
     }
@@ -331,4 +331,9 @@
       #about-container .about-text{
         width: 100%;
       }
+      footer .subscribe a{
+        font-size: 0.9rem;
+        padding: 10px 8px;
+        font-weight: 300;
+   }  
  }  
